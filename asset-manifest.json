@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/exer-app/static/css/main.3b069ab6.css",
-    "main.js": "/exer-app/static/js/main.84699067.js",
+    "main.css": "/exer-app/static/css/main.53feb73c.css",
+    "main.js": "/exer-app/static/js/main.ea97a6ce.js",
     "static/media/hero.png": "/exer-app/static/media/hero.a1957a2be57bc6dc0d27.png",
     "static/media/gym.png": "/exer-app/static/media/gym.6e701417c428e2fbc267.png",
     "static/media/Dots.svg": "/exer-app/static/media/Dots.702721705847aa9e07823c031fde756b.svg",
     "index.html": "/exer-app/index.html",
-    "main.3b069ab6.css.map": "/exer-app/static/css/main.3b069ab6.css.map",
-    "main.84699067.js.map": "/exer-app/static/js/main.84699067.js.map"
+    "main.53feb73c.css.map": "/exer-app/static/css/main.53feb73c.css.map",
+    "main.ea97a6ce.js.map": "/exer-app/static/js/main.ea97a6ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b069ab6.css",
-    "static/js/main.84699067.js"
+    "static/css/main.53feb73c.css",
+    "static/js/main.ea97a6ce.js"
   ]
 }
